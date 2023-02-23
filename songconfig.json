@@ -1,36 +1,5 @@
 [
   {
-    "path": "Aidan_Gallagher_Trinity_Rose.mp3",
-    "name": "Aidan_Gallagher_Trinity_Rose",
-    "bmp": 115,
-    "startTime": 0.05,
-    "diamonds": 0,
-    "type": "OPEN",
-    "closerTiles": 0,
-    "tags": "POPULAR, EDM, RapidJump",
-    "theme": 1
-  },
-  {
-    "path": "Kill_Thi_Love.mp3",
-    "name": "Kill_Thi_Love",
-    "bmp": 115,
-    "startTime": 0.28,
-    "diamonds": 30,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "lovesick_Girls.mp3",
-    "name": "lovesick_Girls",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 40,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
     "path": "How_You_Like_That.mp3",
     "name": "How_You_Like_That",
     "bmp": 115,
