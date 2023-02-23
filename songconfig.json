@@ -1,5 +1,16 @@
 [
   {
+    "path": "DDUDU_DDUDU.mp3",
+    "name": "DDUDU_DDUDU",
+    "bmp": 115,
+    "startTime": 0.05,
+    "diamonds": 0,
+    "type": "OPEN",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 1
+  },
+  {
     "path": "How_You_Like_That.mp3",
     "name": "How_You_Like_That",
     "bmp": 115,
