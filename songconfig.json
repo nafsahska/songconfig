@@ -1,7 +1,7 @@
 [
   {
-    "path": "AbsolutelyAnything.mp3",
-    "name": "AbsolutelyAnything",
+   "path": "BOOMBAYAH_MV.mp3",
+    "name": "BOOMBAYAH_MV",
     "bmp": 115,
     "startTime": 0.05,
     "diamonds": 0,
@@ -11,8 +11,8 @@
     "theme": 1
   },  
   {
-    "path": "DDUDU_DDUDU.mp3",
-    "name": "DDUDU_DDUDU",
+    "path": "Spotlight.mp3",
+    "name": "Spotlight",
     "bmp": 115,
     "startTime": 0.05,
     "diamonds": 0,
@@ -22,8 +22,8 @@
     "theme": 1
   },
   {
-    "path": "How_You_Like_That.mp3",
-    "name": "How_You_Like_That",
+     "path": "TheLivingTombstone.mp3",
+    "name": "TheLivingTombstone",
     "bmp": 115,
     "startTime": 1,
     "diamonds": 50,
@@ -69,16 +69,6 @@
     "diamonds": 50,
     "type": "VIDEO",
     "version": 0,
-    "tags": null
-  },
-  {
-    "path": "BOOMBAYAH_MV.mp3",
-    "name": "BOOMBAYAH_MV",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
     "tags": null
   },
   {
@@ -214,8 +204,8 @@
     "tags": null
   },
   {
-    "path": "Spotlight.mp3",
-    "name": "Spotlight",
+   "path": "DDUDU_DDUDU.mp3",
+    "name": "DDUDU_DDUDU",
     "bmp": 115,
     "startTime": 0.13,
     "diamonds": 50,
@@ -234,8 +224,8 @@
     "tags": null
   },
   {
-    "path": "TheLivingTombstone.mp3",
-    "name": "TheLivingTombstone",
+    "path": "How_You_Like_That.mp3",
+    "name": "How_You_Like_That",
     "bmp": 91,
     "startTime": 1,
     "diamonds": 50,
