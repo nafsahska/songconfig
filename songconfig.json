@@ -1,36 +1,88 @@
 [
   {
-   "path": "BOOMBAYAH_MV.mp3",
-    "name": "BOOMBAYAH_MV",
-    "bmp": 115,
+    "path": "AbsolutelyAnything.mp3",
+    "name": "AbsolutelyAnything",
+    "bmp": 106,
     "startTime": 0.05,
     "diamonds": 0,
     "type": "OPEN",
     "closerTiles": 0,
     "tags": "POPULAR, EDM, RapidJump",
     "theme": 1
-  },  
-  {
-    "path": "Spotlight.mp3",
-    "name": "Spotlight",
-    "bmp": 115,
-    "startTime": 0.05,
-    "diamonds": 0,
-    "type": "OPEN",
-    "closerTiles": 0,
-    "tags": "POPULAR, EDM, RapidJump",
-    "theme": -1
   },
   {
-     "path": "TheLivingTombstone.mp3",
-    "name": "TheLivingTombstone",
+    "path": "aS_IF_ITS_YOUR_LAST.mp3",
+    "name": "aS IF ITS YOUR LAST",
+    "bmp": 106,
+    "startTime": 0.05,
+    "diamonds": 50,
+    "type": "LOCK",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 2
+  },
+  {
+   "path": "BOOMBAYAH_MV.mp3",
+    "name": "BOOMBAYAH_MV",
     "bmp": 115,
+    "startTime": 0.05,
+    "diamonds": 50,
+    "type": "LOCK",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 3
+  },
+  {
+    "path": "DDUDU_DDUDU.mp3",
+    "name": "DDUDU_DDUDU",
+    "bmp": 115,
+    "startTime": 0.05,
+    "diamonds": 50,
+    "type": "LOCK",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 1
+  },
+   {
+    "path": "How_You_Like_That.mp3",
+    "name": "How_You_Like_That",
+    "bmp": 115,
+    "startTime": 1,
+   "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "Kill_Thi_Love.mp3",
+    "name": "Kill_This_Love",
+    "bmp": 115,
+    "startTime": 0.28,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
+  },
+  {
+    "path": "Kiss_and_Make_Up.mp3",
+    "name": "Kiss_and_Make_Up",
+    "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
     "type": "LOCK",
+    "version": 1,
+    "tags": null
+    "theme": 4
+  },
+  {
+    "path": "lovesick_Girls.mp3",
+    "name": "lovesick_Girls",
+    "bmp": 120,
+    "startTime": 1,
+    "diamonds": 40,
+    "type": "LOCK",
     "version": 0,
     "tags": null
-    "theme": -2
   },
   {
     "path": "See_U_Later.mp3",
@@ -38,10 +90,31 @@
     "bmp": 120,
     "startTime": 1,
     "diamonds": 50,
-    "type": "LOCK",
+    "type": "VIDEO",
     "version": 0,
     "tags": null
     "theme": -3
+  },
+  {
+    "path": "Spotlight.mp3",
+    "name": "Spotlight",
+    "bmp": 115,
+    "startTime": 0.05,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "closerTiles": 0,
+    "tags": "POPULAR, EDM, RapidJump",
+    "theme": 2
+  },
+  {
+    "path": "Uncrowned.mp3",
+    "name": "Uncrowned",
+    "bmp": 110,
+    "startTime": 0.45,
+    "diamonds": 50,
+    "type": "VIDEO",
+    "version": 0,
+    "tags": null
   },
   {
     "path": "WHISTLE_MV.mp3",
@@ -53,199 +126,5 @@
     "version": 0,
     "tags": null
     "theme": -4
-  },
-  {
-    "path": "Kiss_and_Make_Up.mp3",
-    "name": "Kiss_and_Make_Up",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-    "theme": -5
-  },
-  {
-    "path": "Sour_Candy.mp3",
-    "name": "Sour_Candy",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "VIDEO",
-    "version": 0,
-    "tags": null
-    "theme": -6
-  },
-  {
-    "path": "AbsolutelyAnything.mp3",
-    "name": "AbsolutelyAnything",
-    "bmp": 106,
-    "startTime": 0.05,
-    "diamonds": 0,
-    "type": "OPEN",
-    "closerTiles": 0,
-    "tags": "POPULAR, EDM, RapidJump",
-    "theme": -7
-  },
-  {
-    "path": "astronomiabasssaxpiano.mp3",
-    "name": "astronomiabasssaxpiano",
-    "bmp": 115,
-    "startTime": 0.05,
-    "diamonds": 0,
-    "type": "OPEN",
-    "closerTiles": 0,
-    "tags": "POPULAR, EDM, RapidJump",
-    "theme": 1
-  },
-  {
-    "path": "BuildOurMachine.mp3",
-    "name": "BuildOurMachine",
-    "bmp": 115,
-    "startTime": 0.28,
-    "diamonds": 30,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "CaniGetAnAmen.mp3",
-    "name": "CaniGetAnAmen",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 40,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "CantBeErased.mp3",
-    "name": "CantBeErased",
-    "bmp": 115,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "EscapetheNightmareBENDY.mp3",
-    "name": "EscapetheNightmareBENDY",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "GOSPELOFDISMAY.mp3",
-    "name": "GOSPELOFDISMAY",
-    "bmp": 110,
-    "startTime": 0.45,
-    "diamonds": 50,
-    "type": "VIDEO",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "HelloNeighbour.mp3",
-    "name": "HelloNeighbour",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "HorrorShow.mp3",
-    "name": "HorrorShow",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "VIDEO",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "Леди.mp3",
-    "name": "Леди",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "diamantito2.mp3",
-    "name": "diamantito2",
-    "bmp": 110,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "Masterpiece.mp3",
-    "name": "Masterpiece",
-    "bmp": 120,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "RecordingGold.mp3",
-    "name": "RecordingGold",
-    "bmp": 115,
-    "startTime": 0.9,
-    "diamonds": 30,
-    "type": "VIDEO",
-    "version": 0,
-    "tags": null
-  },
-  {
-   "path": "DDUDU_DDUDU.mp3",
-    "name": "DDUDU_DDUDU",
-    "bmp": 115,
-    "startTime": 0.13,
-    "diamonds": 50,
-    "type": "HIDE",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "tai.mp3",
-    "name": "Thedevilswing",
-    "bmp": 112,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 1,
-    "tags": null
-  },
-  {
-    "path": "How_You_Like_That.mp3",
-    "name": "How_You_Like_That",
-    "bmp": 91,
-    "startTime": 1,
-    "diamonds": 50,
-    "type": "LOCK",
-    "version": 0,
-    "tags": null
-  },
-  {
-    "path": "Uncrowned.mp3",
-    "name": "Uncrowned",
-    "bmp": 110,
-    "startTime": 0.45,
-    "diamonds": 50,
-    "type": "VIDEO",
-    "version": 0,
-    "tags": null
   }
 ]
